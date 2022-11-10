@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.shaka-video-container .material-icons-round {
+  font-size: 30px;
+}
+
+#video-container {
+  background-color: black;
+  width: auto;
+  height: 20vh;
+}
+
+#video-container,
+#video {
+  width: 100%;
+  height: auto;
+}
